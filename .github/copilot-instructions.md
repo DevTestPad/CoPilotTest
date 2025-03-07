@@ -5,4 +5,5 @@
 - Prioritize **modular and reusable code** for maintainability.
 - Always use **ESLint** and **Prettier** for code formatting and linting.
 - Ensure compatibility with **Node.js LTS versions**.
-- Provide all samples in C#...
+- Provide REST API samples in C#.
+- What I ask about Azure features, please list any relevent service limits 
